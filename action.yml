@@ -19,4 +19,4 @@ inputs:
     description: >
       Set this if the data branch in the data repo is exposed via GitHub pages.
       Must not end with a slash. Example: https://jgehrcke.github.io/ghrs-test
-    default: none
+    default: https://iamkelllly.github.io/fides-stats
