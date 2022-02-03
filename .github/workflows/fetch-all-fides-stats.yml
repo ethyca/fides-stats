@@ -10,7 +10,7 @@ on:
 
 jobs:
   run-ghrs-with-matrix:
-  name: repostats-fides
+  name: fetch-all-fides-stats
   runs-on: ubuntu-latest
   strategy:
     matrix:
