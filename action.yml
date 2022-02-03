@@ -10,7 +10,7 @@ inputs:
     description: >
       GitHub API token for reading repo stats and for interacting with the data
       repo (must be set if repo to fetch stats for is not the data repo).
-    default: ${{ secrets.ghrs_github_api_token }}
+    default: ${{ github.token }}
   databranch:
     description: >
       Data branch: Branch to push data to (in the data repo).
