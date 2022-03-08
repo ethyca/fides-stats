@@ -2,7 +2,6 @@
 Move data from the CSV files into a Snowflake instance.
 """
 from os import environ as env
-from typing import Dict, List
 
 import pandas as pd
 from sqlalchemy import create_engine
