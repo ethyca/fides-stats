@@ -12,6 +12,7 @@ on:
       - main
     paths:
       - .github/workflows/snowflake_upload.yml
+      - ethyca/scripts/snowflake_pipeline.py
 
 jobs:
   Upload:
