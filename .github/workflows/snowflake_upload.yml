@@ -1,0 +1,30 @@
+name: Upload to Snowflake
+
+on:
+  schedule:
+    # Run this once per day, towards the end of the day for keeping the most
+    # recent data point most meaningful (hours are interpreted in UTC).
+    - cron: "30 23 * * *"
+  workflow_dispatch: # Allow for running this manually.
+  pull_request:
+    # Run the workflow if it gets changed in a PR so it can be tested.
+    branches:
+      - main
+    paths:
+      - .github/workflows/snowflake_upload.yml
+      - ethyca/scripts/snowflake_pipeline.py
+
+jobs:
+  Upload:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v2
+
+      - name: Install Dependencies
+        run: pip install -r ethyca/scripts/requirements.txt.
+
+      - name: Upload to Snowflake
+        run: python ethyca/scripts/snowflake_pipeline.py
+        env:
+          SNOWFLAKE_CONN_STR: ${{ secrets.SNOWFLAKE_CONN_STR }}
