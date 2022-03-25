@@ -6,6 +6,12 @@ on:
     # recent data point most meaningful (hours are interpreted in UTC).
     - cron: "30 23 * * *"
   workflow_dispatch: # Allow for running this manually.
+  pull_request:
+    # Run the workflow if it gets changed in a PR so it can be tested.
+    branches:
+      - main
+    paths:
+      - .github/workflows/snowflake_upload.yml
 
 jobs:
   Upload:
