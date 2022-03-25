@@ -27,9 +27,9 @@ def upload_csv_files(engine: Engine):
     for folder_name in FOLDERS_TO_LOAD:
         for file_name in FILES_TO_LOAD:
             print("------")
-            file_path = f"../{folder_name}/ghrs-data/{file_name}.csv"
+            file_path = f"ethyca/{folder_name}/ghrs-data/{file_name}.csv"
             print(f"Loading {file_path}...")
-            csv_df = pd.read_csv(f"../{folder_name}/ghrs-data/{file_name}.csv")
+            csv_df = pd.read_csv(f"ethyca/{folder_name}/ghrs-data/{file_name}.csv")
             csv_df["source"] = folder_name
             print(f"Uploading file to table: {file_name}")
             csv_df.to_sql(file_name, engine, if_exists="append", index=False)
