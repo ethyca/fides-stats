@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fidesops,110,31
+/ethyca/fidesops/search,30,6
+/ethyca/fidesops/issues,19,8
+/ethyca/fidesops/pulls,16,9
+/ethyca/fidesops/find/main,15,3
+/ethyca/fidesops/tree/main/data/saas/config,14,5
+/ethyca/fidesops/releases/tag/1.8.2,9,5
+/ethyca/fidesops/tree/main/data,9,5
+/ethyca/fidesops/tree/main/data/saas,9,4
+/ethyca/fidesops/blob/main/src/fidesops/ops/core/config.py,8,4
