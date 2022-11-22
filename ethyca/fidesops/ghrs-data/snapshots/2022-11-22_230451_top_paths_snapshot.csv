@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fidesops,75,35
+/ethyca/fidesops/search,33,3
+/ethyca/fidesops/issues/556,15,14
+/ethyca/fidesops/issues,13,5
+/ethyca/fidesops/pulls,11,5
+/ethyca/fidesops/tree/main/data/saas/config,11,3
+/ethyca/fidesops/find/main,8,2
+/ethyca/fidesops/tree/main/data,6,3
+/ethyca/fidesops/pull/54,4,3
+/ethyca/fidesops/blob/db713b1194555d54de6245f2364b7817298a0968/src/fidesops/ops/schemas/connection_configuration/connection_secrets_snowflake.py,4,2
