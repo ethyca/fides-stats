@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fidesops,25,14
+/ethyca/fidesops/search,12,2
+/ethyca/fidesops/issues/392,3,3
+/ethyca/fidesops/issues/556,3,3
+/ethyca/fidesops/commit/583f378d1f88e45b77f01363758aeedc03f418ba,3,2
+/ethyca/fidesops/tree/main/data,2,2
+/ethyca/fidesops/tree/main/data/saas,2,2
+/ethyca/fidesops/tree/main/data/saas/config,2,2
+/ethyca/fidesops/blob/main/data/dataset/mongo_example_test_dataset.yml,2,1
+/ethyca/fidesops/blob/main/data/dataset/postgres_example_test_dataset.yml,2,1
