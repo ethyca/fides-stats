@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fideslang,42,24
+/ethyca/fideslang/tree/main/src/fideslang,11,3
+/ethyca/fideslang/tree/main/src,8,2
+/ethyca/fideslang/blob/main/src/fideslang/models.py,7,4
+/ethyca/fideslang/blob/main/data_files/data_categories.yml,7,2
+/ethyca/fideslang/blob/main/src/fideslang/default_taxonomy.py,4,2
+/ethyca/fideslang/blob/main/src/fideslang/__init__.py,4,1
+/ethyca/fideslang/blob/main/src/fideslang/validation.py,2,2
+/ethyca/fideslang/blob/main/src/__init__.py,2,1
+/ethyca/fideslang/search,2,1
