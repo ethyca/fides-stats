@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fidesops,12,8
+/ethyca/fidesops/issues/556,6,6
+/ethyca/fidesops/tree/main/data/saas/config,3,1
+/ethyca/fidesops/search,2,1
+/ethyca/fidesops/blob/2f678b175c62a125ed0d8a0d1ecf1e2d1f42a68d/tests/ops/integration_tests/saas/test_shopify_task.py,1,1
+/ethyca/fidesops/blob/main/CHANGELOG.md,1,1
+/ethyca/fidesops/blob/main/data/dataset/postgres_example_test_dataset.yml,1,1
+/ethyca/fidesops/blob/main/fidesops.toml,1,1
+/ethyca/fidesops/blob/main/README.md,1,1
+/ethyca/fidesops/blob/main/scripts/mssql_discover.py,1,1
