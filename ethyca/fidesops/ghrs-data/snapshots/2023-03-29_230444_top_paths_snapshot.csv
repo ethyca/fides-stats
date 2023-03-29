@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fidesops,20,13
+/ethyca/fidesops/issues/556,7,7
+/ethyca/fidesops/search,3,2
+/ethyca/fidesops/blob/main/data/dataset/postgres_example_test_dataset.yml,1,1
+/ethyca/fidesops/blob/main/fidesops.toml,1,1
+/ethyca/fidesops/blob/main/README.md,1,1
+/ethyca/fidesops/blob/main/scripts/mssql_discover.py,1,1
+/ethyca/fidesops/blob/main/tests/ops/fixtures/saas/stripe_fixtures.py,1,1
+/ethyca/fidesops/graphs/contributors,1,1
+/ethyca/fidesops/issues/73,1,1
