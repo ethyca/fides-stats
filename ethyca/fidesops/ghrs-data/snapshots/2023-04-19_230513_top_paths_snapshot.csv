@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fidesops,18,13
+/ethyca/fidesops/issues/556,10,10
+/ethyca/fidesops/commit/337e2f171895954663df2d160cbcf008c9051412,3,2
+/ethyca/fidesops/pull/1327/files,3,2
+/ethyca/fidesops/pull/447,3,1
+/ethyca/fidesops/issues/606,2,2
+/ethyca/fidesops/pull/1327,2,2
+/ethyca/fidesops/blame/cb64d46cc22a9adb9bef894287295bef9adf0ef0/src/fidesops/ops/models/privacy_request.py,2,1
+/ethyca/fidesops/blame/main/src/fidesops/ops/models/privacy_request.py,2,1
+/ethyca/fidesops/blob/ec4ed2e783c42a69e9de055b6205b4be965e8d1b/tests/integration_tests/saas/test_stripe_task.py,2,1
