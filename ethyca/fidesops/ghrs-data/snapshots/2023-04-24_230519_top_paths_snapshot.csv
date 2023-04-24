@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fidesops,13,10
+/ethyca/fidesops/issues/556,13,10
+/ethyca/fidesops/blob/main/docs/fidesops/docs/img/fidesops-overview-diagram.png,3,1
+/ethyca/fidesops/pull/447,3,1
+/ethyca/fidesops/issues/392,2,2
+/ethyca/fidesops/pull/447/files,2,1
+/ethyca/fidesops/blob/45d16752f4280517699a183cf961251dd27288ed/clients/ops/privacy-center/next.config.js,1,1
+/ethyca/fidesops/blob/db713b1194555d54de6245f2364b7817298a0968/tests/ops/service/connection_config/test_mysql_connector.py,1,1
+/ethyca/fidesops/blob/main/README.md,1,1
+/ethyca/fidesops/blob/main/src/fidesops/ops/api/v1/scope_registry.py,1,1
