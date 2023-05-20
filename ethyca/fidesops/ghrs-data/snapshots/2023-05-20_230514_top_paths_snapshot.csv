@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fidesops,24,13
+/ethyca/fidesops/issues/556,8,8
+/ethyca/fidesops/issues,6,3
+/ethyca/fidesops/pulls,4,3
+/ethyca/fidesops/pull/554,4,2
+/ethyca/fidesops/issues/521,3,2
+/ethyca/fidesops/blob/efd16e209d54c641736dd11c8a0222eb1dffe5b0/src/fidesops/ops/schemas/shared_schemas.py,3,1
+/ethyca/fidesops/blob/main/src/fidesops/ops/api/v1/scope_registry.py,3,1
+/ethyca/fidesops/blob/main/src/fidesops/ops/service/connectors/manual_webhook_connector.py,3,1
+/ethyca/fidesops/pull/611,2,2
