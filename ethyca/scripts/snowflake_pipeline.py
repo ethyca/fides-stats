@@ -1,13 +1,14 @@
 """
 Move data from the CSV files into a Snowflake instance.
 """
+
 from os import environ as env
 
 import pandas as pd
 from sqlalchemy import create_engine
 from sqlalchemy.engine import Engine
 
-FOLDERS_TO_LOAD = ["fides", "fideslang", "fidesops"]
+FOLDERS_TO_LOAD = ["fides", "fideslang"]
 FILES_TO_LOAD = ["forks", "stargazers", "views_clones_aggregate"]
 
 
