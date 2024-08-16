@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fideslang/pull/11,13,2
+/ethyca/fideslang,11,3
+/ethyca/fideslang/pull/11/files,7,2
+/ethyca/fideslang/tags,4,1
+/ethyca/fideslang/actions,3,2
+/ethyca/fideslang/pulls,3,2
+/ethyca/fideslang/actions/workflows/docker.yaml,2,1
+/ethyca/fideslang/actions/workflows/publish_package.yaml,2,1
+/ethyca/fideslang/blob/main/data_files/data_categories.yml,2,1
+/ethyca/fideslang/tree/iab-fides-taxonomy/mkdocs/docs,2,1
