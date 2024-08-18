@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fideslang,9,2
+/ethyca/fideslang/pull/11,5,2
+/ethyca/fideslang/blob/main/src/fideslang/gvl/gvl_data_use_mapping.json,5,1
+/ethyca/fideslang/tags,4,1
+/ethyca/fideslang/actions,3,2
+/ethyca/fideslang/actions/workflows/docker.yaml,2,1
+/ethyca/fideslang/actions/workflows/publish_package.yaml,2,1
+/ethyca/fideslang/blob/main/data_files/data_categories.yml,2,1
+/ethyca/fideslang/blob/main/src/fideslang/gvl/gvl_feature_mapping.json,2,1
+/ethyca/fideslang/pulls,2,1
