@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fideslang,20,10
+/ethyca/fideslang/pulls,8,2
+/ethyca/fideslang/branches,7,2
+/ethyca/fideslang/pull/16,7,2
+/ethyca/fideslang/pull/17,5,1
+/ethyca/fideslang/pull/16/files,3,2
+/ethyca/fideslang/pull/15,2,2
+/ethyca/fideslang/blob/main/CHANGELOG.md,2,1
+/ethyca/fideslang/compare/main...ethyca:fideslang:PROD-2670-masking-override,1,1
+/ethyca/fideslang/compare/main...ethyca:fideslang:PROD-2743-masking-strategy-override,1,1
