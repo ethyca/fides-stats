@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fideslang,10,7
+/ethyca/fideslang/tree/main,2,1
+/ethyca/fideslang/tree/main/data_files,2,1
+/ethyca/fideslang/blob/main/CHANGELOG.md,1,1
+/ethyca/fideslang/blob/main/data_files/data_categories.csv,1,1
+/ethyca/fideslang/blob/main/data_files/data_subjects.csv,1,1
+/ethyca/fideslang/blob/main/data_files/data_uses.csv,1,1
+/ethyca/fideslang/blob/main/demo_resources/demo_dataset.yml,1,1
+/ethyca/fideslang/blob/main/demo_resources/demo_policy.yml,1,1
+/ethyca/fideslang/pull/21,1,1
