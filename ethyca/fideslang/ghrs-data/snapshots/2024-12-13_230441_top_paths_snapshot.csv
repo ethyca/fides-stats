@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fideslang,10,8
+/ethyca/fideslang/compare/main...IABTechLab%3Afideslang%3Amain,2,1
+/ethyca/fideslang/pull/11/files,2,1
+/ethyca/fideslang/pulls,2,1
+/ethyca/fideslang/blob/main/src/fideslang/default_fixtures.py,1,1
+/ethyca/fideslang/blob/main/src/fideslang/default_taxonomy/data_categories.py,1,1
+/ethyca/fideslang/blob/main/src/fideslang/default_taxonomy/data_subjects.py,1,1
+/ethyca/fideslang/blob/main/src/fideslang/default_taxonomy/data_uses.py,1,1
+/ethyca/fideslang/blob/main/src/fideslang/default_taxonomy/organizations.py,1,1
+/ethyca/fideslang/blob/main/src/fideslang/default_taxonomy/utils.py,1,1
