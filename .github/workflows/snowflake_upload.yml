@@ -10,10 +10,13 @@ on:
     # Run the workflow if it gets changed in a PR so it can be tested.
     branches:
       - main
-      - jade/fix_gh_action
     paths:
       - .github/workflows/snowflake_upload.yml
       - ethyca/scripts/snowflake_pipeline.py
+
+  push:
+    branches:
+      - jade/fix_gh_action
 
 env:
   DEFAULT_PYTHON_VERSION: "3.10.11"
@@ -24,6 +27,9 @@ jobs:
     steps:
       - name: Checkout
         uses: actions/checkout@v2
+      
+      - name: Install Build Dependencies
+        run: sudo apt-get update && sudo apt-get install -y build-essential
 
       - name: Install Dependencies
         run: pip install -r ethyca/scripts/requirements.txt
