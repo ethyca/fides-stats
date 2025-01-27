@@ -14,12 +14,20 @@ on:
       - .github/workflows/snowflake_upload.yml
       - ethyca/scripts/snowflake_pipeline.py
 
+env:
+  DEFAULT_PYTHON_VERSION: "3.10.11"
+
 jobs:
   Upload:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v2
+        uses: actions/checkout@v4
+
+      - name: Set Up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: ${{ env.DEFAULT_PYTHON_VERSION }}
 
       - name: Install Dependencies
         run: pip install -r ethyca/scripts/requirements.txt
