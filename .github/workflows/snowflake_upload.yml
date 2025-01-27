@@ -10,7 +10,7 @@ on:
     # Run the workflow if it gets changed in a PR so it can be tested.
     branches:
       - main
-      - 
+      - jade/fix_gh_action
     paths:
       - .github/workflows/snowflake_upload.yml
       - ethyca/scripts/snowflake_pipeline.py
