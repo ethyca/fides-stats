@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fideslang,11,5
+/ethyca/fideslang/pull/26,8,4
+/ethyca/fideslang/pull/26/files,3,2
+/ethyca/fideslang/tree/main/src,3,2
+/ethyca/fideslang/tree/main/src/fideslang,3,2
+/ethyca/fideslang/compare/main...ethyca:fideslang:HA-415,2,1
+/ethyca/fideslang/blob/main/src/fideslang/default_taxonomy/data_categories.py,1,1
+/ethyca/fideslang/blob/main/src/fideslang/gvl/gvl_data_use_mapping.json,1,1
+/ethyca/fideslang/blob/main/src/fideslang/manifests.py,1,1
+/ethyca/fideslang/blob/main/src/fideslang/models.py,1,1
