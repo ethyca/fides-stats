@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fideslang,8,7
+/ethyca/fideslang/tree/main/data_files,2,1
+/ethyca/fideslang/actions,1,1
+/ethyca/fideslang/blob/main/src/fideslang/gvl/gvl_data_use_mapping.json,1,1
+/ethyca/fideslang/blob/main/src/fideslang/gvl/gvl_feature_mapping.json,1,1
+/ethyca/fideslang/commit/ffe60ac11c93ad07521b801374234d5ab8831072,1,1
+/ethyca/fideslang/compare/2.2.2...3.0.0,1,1
+/ethyca/fideslang/graphs/code-frequency,1,1
+/ethyca/fideslang/graphs/commit-activity,1,1
+/ethyca/fideslang/graphs/contributors,1,1
