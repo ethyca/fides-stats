@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fideslang,5,5
+/ethyca/fideslang/blob/main/src/fideslang/models.py,5,5
+/ethyca/fideslang/blob/main/src/fideslang/default_fixtures.py,3,3
+/ethyca/fideslang/blob/main/src/fideslang/validation.py,3,3
+/ethyca/fideslang/blob/1b5e0c42d1982af264e1038c270947c5bcf1a17f/src/fideslang/default_taxonomy/data_categories.py,2,1
+/ethyca/fideslang/blob/1b5e0c42d1982af264e1038c270947c5bcf1a17f/src/fideslang/gvl/gvl_data_category_mapping.json,1,1
+/ethyca/fideslang/blob/1b5e0c42d1982af264e1038c270947c5bcf1a17f/src/fideslang/gvl/gvl_feature_mapping.json,1,1
+/ethyca/fideslang/blob/1b5e0c42d1982af264e1038c270947c5bcf1a17f/src/fideslang/gvl/models.py,1,1
+/ethyca/fideslang/blob/main/src/fideslang/default_taxonomy/data_categories.py,1,1
+/ethyca/fideslang/tree/main/src,1,1
