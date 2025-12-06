@@ -1,5 +1,5 @@
 % Statistics for ethyca/fideslang
-% Generated for [ethyca/fideslang](https://github.com/ethyca/fideslang) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-12-05 23:05 UTC.
+% Generated for [ethyca/fideslang](https://github.com/ethyca/fideslang) with [jgehrcke/github-repo-stats](https://github.com/jgehrcke/github-repo-stats) at 2025-12-06 23:05 UTC.
 
 
 ## Views
@@ -75,7 +75,7 @@ respond slowly to change (narrow peaks are smoothed out).
 
 <div id="chart_referrers_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 referrers: 01: `github.com`, 02: `ethyca.github.io`, 03: `Google`, 04: `ethyca.com`, 05: `reddit.com`, 06: `u-cursos.cl`, 07: `statics.teams.cdn.office.net`, 08: `medium.ethyca.com`, 09: `youtube.com`, 10: `ethyca.atlassian.net`, 11: `DuckDuckGo`, 12: `t.corp.amazon.com`, 13: `search.brave.com`, 14: `docs.google.com`, 15: `l.workplace.com`
+Top 15 referrers: 01: `github.com`, 02: `ethyca.github.io`, 03: `Google`, 04: `ethyca.com`, 05: `reddit.com`, 06: `u-cursos.cl`, 07: `statics.teams.cdn.office.net`, 08: `medium.ethyca.com`, 09: `DuckDuckGo`, 10: `l.workplace.com`, 11: `t.corp.amazon.com`, 12: `docs.google.com`, 13: `search.brave.com`, 14: `ethyca.atlassian.net`, 15: `youtube.com`
 
 
 
@@ -86,7 +86,7 @@ Top 15 referrers: 01: `github.com`, 02: `ethyca.github.io`, 03: `Google`, 04: `e
 
 <div id="chart_paths_top_n_alltime" class="full-width-chart"></div>
 
-Top 15 paths: 01: `/`, 02: `/discussions`, 03: `/tree/main/src/fideslang`, 04: `/tree/main/src`, 05: `/tree/main/data_files`, 06: `/blob/main/LICENSE`, 07: `/pull/107`, 08: `/pull/85`, 09: `/issues`, 10: `/blob/main/data_categories.json`, 11: `/pull/45`, 12: `/tree/main/scripts`, 13: `/issues/58`, 14: `/blob/main/data_files/data_categories.csv`, 15: `/pulls`
+Top 15 paths: 01: `/`, 02: `/discussions`, 03: `/tree/main/src/fideslang`, 04: `/tree/main/src`, 05: `/tree/main/data_files`, 06: `/blob/main/LICENSE`, 07: `/pull/107`, 08: `/pull/85`, 09: `/blob/main/data_categories.json`, 10: `/issues`, 11: `/tree/main/scripts`, 12: `/issues/58`, 13: `/blob/main/src/fideslang/models.py`, 14: `/pulls`, 15: `/blob/main/data_files/data_categories.csv`
 
 
 <script type="text/javascript">
