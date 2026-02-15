@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fideslang,6,3
+/ethyca/fideslang/tree/main/data_files,3,1
+/ethyca/fideslang/blob/main/demo_resources/demo_dataset.yml,2,1
+/ethyca/fideslang/blob/main/demo_resources/demo_policy.yml,2,1
+/ethyca/fideslang/blob/main/demo_resources/demo_system.yml,2,1
+/ethyca/fideslang/blob/main/data_files/data_categories.json,1,1
+/ethyca/fideslang/blob/main/data_files/data_subjects.json,1,1
+/ethyca/fideslang/blob/main/demo_resources/demo_organization.yml,1,1
+/ethyca/fideslang/blob/main/scripts/export_default_taxonomy.py,1,1
+/ethyca/fideslang/blob/main/src/fideslang/py.typed,1,1
