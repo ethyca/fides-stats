@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fideslang,7,5
+/ethyca/fideslang/tree/main/scripts,3,2
+/ethyca/fideslang/blob/main/CODE_OF_CONDUCT.md,3,1
+/ethyca/fideslang/blame/main/CODE_OF_CONDUCT.md,1,1
+/ethyca/fideslang/blob/main/.pre-commit-config.yaml,1,1
+/ethyca/fideslang/blob/main/Dockerfile,1,1
+/ethyca/fideslang/blob/main/README.md,1,1
+/ethyca/fideslang/blob/main/dev-requirements.txt,1,1
+/ethyca/fideslang/blob/main/docker-compose.yml,1,1
+/ethyca/fideslang/blob/main/noxfile.py,1,1
