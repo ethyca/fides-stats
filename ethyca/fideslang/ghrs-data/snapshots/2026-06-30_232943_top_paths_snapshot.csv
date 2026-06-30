@@ -1,0 +1,10 @@
+url_path,views_total,views_unique
+/ethyca/fideslang,9,7
+/ethyca/fideslang/blob/main/data_files/data_categories.csv,3,2
+/ethyca/fideslang/blob/main/tests/data/passing_declaration_taxonomy.yml,1,1
+/ethyca/fideslang/blob/main/tests/fideslang/test_default_taxonomy.py,1,1
+/ethyca/fideslang/commits,1,1
+/ethyca/fideslang/labels,1,1
+/ethyca/fideslang/tree/main/data_files,1,1
+/ethyca/fideslang/tree/main/tests/data,1,1
+/ethyca/fideslang/tree/main/tests/fideslang/gvl,1,1
