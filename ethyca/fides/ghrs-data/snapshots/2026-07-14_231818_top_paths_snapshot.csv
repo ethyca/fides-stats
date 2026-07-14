@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fides,242,132
+/ethyca/fides/pulls,33,9
+/ethyca/fides/issues,24,16
+/ethyca/fides/blob/main/src/fides/api/util/logger.py,8,1
+/ethyca/fides/commit/67e43b10b1096c7f84d5c0eeba08ee3b7846b7cd,6,4
+/ethyca/fides/commits,6,4
+/ethyca/fides/releases,5,5
+/ethyca/fides/tree/main,5,5
+/ethyca/fides/blob/b07790067a0ea4d7bd721dae4bc6af6727b80b5e/src/fides/api/v1/endpoints/user_endpoints.py,5,1
+/ethyca/fides/actions,4,4
