@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fides,249,148
+/ethyca/fides/issues,16,9
+/ethyca/fides/pulls,14,11
+/ethyca/fides/blob/main/src/fides/api/ops/api/v1/endpoints/dataset_endpoints.py,13,13
+/ethyca/fides/compare/d7adb1f4ebd9bd41ce5cdacd3d2874c8e7d48201..c95e8d497f8d95da996c731b58441a917bc8deab,13,13
+/ethyca/fides/blob/main/src/fides/api/ops/schemas/application_config.py,12,12
+/ethyca/fides/compare/0aa0e89abaa6f534675838a894905f25b6836663..c727b4794c6fa6105ad5a4e2dc35bc5a998f1529,11,11
+/ethyca/fides/compare/4c7130417213799e46bde0113c0464a7f611a0a2..834133e0da2d8bee49e1c29c5c1623c118b74cb0,10,10
+/ethyca/fides/compare/c727b4794c6fa6105ad5a4e2dc35bc5a998f1529..37e33c55dbce6bf379eeee5bd8686ce254fe0c39,10,10
+/ethyca/fides/compare/d40312af63c92a6f539fcd156185de85654c0105..9652551b068902bc1b845169ce6bcb6b7e2b5ff6,10,10
