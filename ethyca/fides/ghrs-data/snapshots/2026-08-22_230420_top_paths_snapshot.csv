@@ -1,0 +1,11 @@
+url_path,views_total,views_unique
+/ethyca/fides,247,147
+/ethyca/fides/issues,27,11
+/ethyca/fides/pulls,13,10
+/ethyca/fides/commits/main/.fides/db_dataset.yml,6,1
+/ethyca/fides/releases,5,5
+/ethyca/fides/commit/e87f3ff835af368defc1ec42dc29ec545a288585,5,2
+/ethyca/fides/blob/main/src/fides/service/privacy_request/diagnostics/gather.py,5,1
+/ethyca/fides/activity,4,4
+/ethyca/fides/issues/1241,3,3
+/ethyca/fides/releases/tag/2.86.2,3,3
